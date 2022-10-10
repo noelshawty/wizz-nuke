@@ -18,7 +18,7 @@ apt update && apt upgrade
 
 pkg install python git
 
-git https://github.com/wizzusa/wizz.git
+git clone https://github.com/wizzusa/wizz-nuke.git
 
 cd wizz-nuke
 
@@ -34,7 +34,7 @@ python wizz-nuke.py
 ```
 ## Linux / Windows
 ```console
-git clone https://github.com/wizzusa/wizz.git
+git clone https://github.com/wizzusa/wizz-nuke.git
 
 cd nuke-on
 
