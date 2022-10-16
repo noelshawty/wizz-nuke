@@ -2,10 +2,10 @@
 * Python 3.6 - 3.8
 ***
 # Features
- - [✅] Delete Channels
- - [✅] Ban All Members
- - [✅] Delete Roles
- - [✅] Create Channel
+ - [x] Delete Channels
+ - [x] Ban All Members
+ - [x] Delete Roles
+ - [x] Create Channel
  - [x] Create Roles
 
 ***
