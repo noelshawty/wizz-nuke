@@ -2,11 +2,11 @@
 * Python 3.6 - 3.8
 ***
 # Features
- - [x] Delete Channels
- - [x] Ban All Members
- - [x] Delete Roles
- - [x] Create Channel
- - [ ] Create Roles
+ - [✅] Delete Channels
+ - [✅] Ban All Members
+ - [✅] Delete Roles
+ - [✅] Create Channel
+ - [x] Create Roles
 
 ***
 # Preview
@@ -28,7 +28,7 @@ python wizz-nuke.py
 ```
 **[Subsequent launches]**
 ```console
-cd nuke-on
+cd wizz-nuke
 
 python wizz-nuke.py
 ```
@@ -36,7 +36,7 @@ python wizz-nuke.py
 ```console
 git clone https://github.com/wizzusa/wizz-nuke.git
 
-cd nuke-on
+cd wizz-nuke
 
 python -m pip install -r requirements.txt
 
