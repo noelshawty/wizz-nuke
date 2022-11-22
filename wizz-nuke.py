@@ -1,4 +1,5 @@
 import discord
+import discord
 import random
 from colorama import init, Fore as cc
 from os import name as os_name, system
@@ -7,9 +8,7 @@ from sys import exit
 init()
 dr = DR = r = R = cc.LIGHTRED_EX
 g = G = cc.LIGHTGREEN_EX
-b = B = cc.LIGHTBLUE_EX
-m = M = cc.LIGHTMAGENTA_EX
-c = C = cc.LIGHTCYAN_EX
+b = B = cc.LIGHTBLUE_EX                                                m = M = cc.LIGHTMAGENTA_EX                                             c = C = cc.LIGHTCYAN_EX
 y = Y = cc.LIGHTYELLOW_EX
 w = W = cc.RESET
 
@@ -19,17 +18,15 @@ def _input(text):print(text, end='');return input()
 baner = f'''
 {r}_________
 
-██╗    ██╗██╗███████╗███████╗    ███╗   ██╗██╗   ██╗██╗  ██╗███████╗
-██║    ██║██║╚══███╔╝╚══███╔╝    ████╗  ██║██║   ██║██║ ██╔╝██╔════╝
-██║ █╗ ██║██║  ███╔╝   ███╔╝     ██╔██╗ ██║██║   ██║█████╔╝ █████╗  
-██║███╗██║██║ ███╔╝   ███╔╝      ██║╚██╗██║██║   ██║██╔═██╗ ██╔══╝  
-╚███╔███╔╝██║███████╗███████╗    ██║ ╚████║╚██████╔╝██║  ██╗███████╗
- ╚══╝╚══╝ ╚═╝╚══════╝╚══════╝    ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
-                                                                    
+  ██╗    ██╗██╗███████╗███████╗     ███╗   ██╗██╗   ██╗██╗  ██╗███████╗
+  ██║    ██║██║╚══███╔╝╚══███╔╝     ████╗  ██║██║   ██║██║ ██╔╝██╔════╝  ██║ █╗ ██║██║  ███╔╝   ███╔╝      ██╔██╗ ██║██║   ██║█████╔╝ █████╗
+  ██║███╗██║██║ ███╔╝   ███╔╝       ██║╚██╗██║██║   ██║██╔═██╗ ██╔══╝
+  ╚███╔███╔╝██║███████╗███████╗     ██║ ╚████║╚██████╔╝██║  ██╗███████╗
+   ╚══╝╚══╝ ╚═╝╚══════╝╚══════╝     ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
 
 
-{y}Made by: {g}https://github.com/wizzusa/wizz.git'''
 
+{y}Made By: {g}https://github.com/wizzusa/wizz.git''''''
 
 
 async def delete_all_channel(guild):
