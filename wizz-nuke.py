@@ -31,7 +31,7 @@ baner = f'''
   ░   ░   ▒ ░░ ░ ░ ░ ░░ ░ ░ ░ ░      ░   ░ ░  ░░░ ░ ░ ░ ░░ ░    ░   
     ░     ░    ░ ░      ░ ░                ░    ░     ░  ░      ░  ░
              ░        ░                                                                                                                                                                                                                                                                          
-{y}Made by: {g}https://github.com/wizzusa/wizz.git'''
+{y}Made by: {g}https://github.com/g4zzlove/wizz-nuke.git'''
 
 
 
