@@ -34,9 +34,6 @@ baner = f'''
 {y}Made by: {g}https://github.com/g4zzlove/wizz-nuke.git'''
 
 
-SPAM_CHANNEL =  ["HARDZY PASSOU POR AQUI"]
-SPAM_MESSAGE = ["@everyone @here"]
-
 async def delete_all_channel(guild):
     deleted = 0
     for channel in guild.channels:
@@ -157,5 +154,3 @@ while True:
     elif choice == '2':
         print(f'{dr}Exit...')
         exit()
-       await
-channel.send(random.choice(SPAM_MESSAGE))
